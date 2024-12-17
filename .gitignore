@@ -1,0 +1,4 @@
+venv
+fermer_venv
+.idea
+*.pyc
